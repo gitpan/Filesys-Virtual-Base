@@ -16,10 +16,10 @@ name: Filesys-Virtual-Base
 provides:
   Filesys::Virtual::Base:
     file: lib/Filesys/Virtual/Base.pm
-    version: 0.3
+    version: 0.4
 requires:
   Class::Accessor::Fast: 0
   Filesys::Virtual: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.3
+version: 0.4
